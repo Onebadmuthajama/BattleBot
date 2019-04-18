@@ -1,0 +1,11 @@
+C:\Dev\BattleBot\BattleBot\bin\Debug\netcoreapp2.2\BattleBot.deps.json
+C:\Dev\BattleBot\BattleBot\bin\Debug\netcoreapp2.2\BattleBot.runtimeconfig.json
+C:\Dev\BattleBot\BattleBot\bin\Debug\netcoreapp2.2\BattleBot.runtimeconfig.dev.json
+C:\Dev\BattleBot\BattleBot\bin\Debug\netcoreapp2.2\BattleBot.dll
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.csprojAssemblyReference.cache
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.csproj.CoreCompileInputs.cache
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.AssemblyInfoInputs.cache
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.AssemblyInfo.cs
+C:\Dev\BattleBot\BattleBot\bin\Debug\netcoreapp2.2\BattleBot.pdb
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.dll
+C:\Dev\BattleBot\BattleBot\obj\Debug\netcoreapp2.2\BattleBot.pdb
